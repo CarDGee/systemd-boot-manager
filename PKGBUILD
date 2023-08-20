@@ -1,9 +1,11 @@
+# Maintainer: CarDGee <carlosdgguerreiro@gmail.com>
+
 pkgname=systemd-boot-manager
-pkgver=2
+pkgver=3
 pkgrel=1
 pkgdesc='A simple tool to maintain systemd-boot & systemd-boot entries for CachyOS'
 arch=(any)
-url='https://github.com/cachyos/systemd-boot-manager'
+url='https://github.com/CarDGee/systemd-boot-manager'
 license=(GPL2)
 backup=('etc/sdboot-manage.conf')
 depends=(systemd

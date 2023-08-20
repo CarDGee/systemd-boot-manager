@@ -49,8 +49,8 @@ export  LINUX_OPTIONS \
         LINUX_USE_SWAP_FOR_RESUME \
         DEFAULT_ENTRY="latest" \
         DISABLE_FALLBACK="no" \
-        ENTRY_ROOT="cachyos" \
-        ENTRY_TITLE="CachyOS" \
+        ENTRY_ROOT="Arch" \
+        ENTRY_TITLE="Arch" \
         ENTRY_APPEND_KVER="yes" \
         KERNEL_PATTERN="vmlinuz-[0-9]*-*" \
         REMOVE_EXISTING="yes" \
